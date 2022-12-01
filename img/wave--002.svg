@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1440 598.5" style="enable-background:new 0 0 1440 598.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#BAF2E6;}
+	.st1{filter:url(#Adobe_OpacityMaskFilter);}
+</style>
+<path class="st0" d="M0,330.2h30c30,0,90,0,150,0s120,0,180,0s120,0,180,0s120,0,180,0s120,0,180,0s120,0,180,0s120,0,180,0
+	s120,0,150,0h30v128l-30,32c-30,32-90,96-150,106.7c-60,10.3-120-31.7-180-48c-60-15.7-120-5.7-180-21.4c-60-16.3-120-58.3-180-53.3
+	s-120,59-180,48s-120-85-180-80s-120,91-180,128s-120,27-150,21.3l-30-5.3V330.2z"/>
+<rect class="st0" width="1440" height="330.2"/>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="636.3" y="0" width="756.7" height="612.2">
+		<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+		<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="636.3" y="0" width="756.7" height="612.2" id="SVGID_1_">
+	<g class="st1">
+	</g>
+</mask>
+<g style="mask:url(#SVGID_1_);">
+	
+		<image style="overflow:visible;" width="927" height="750" xlink:href="Screen Shot 2022-08-17 at 9.31 2.png"  transform="matrix(0.8163 0 0 0.8163 636.2914 0)">
+	</image>
+</g>
+</svg>
